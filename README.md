@@ -17,7 +17,7 @@ Python 3.x is installed on your system
 SQLite database software (comes bundled with most Python installations)
 Basic understanding of Python and its syntax
 Setup Instructions:
-Clone the repository using git clone https://github.com/your-github-handle/blood-bank-management-system.git
+Clone the repository using git clone 
 Install required packages by running pip install -r requirements.txt in your terminal/command prompt
 Run the application with python main.py
 Contributing:
